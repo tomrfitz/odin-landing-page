@@ -30,10 +30,22 @@ h1 {
     margin: 0;
 }
 
+
+
+h2 {
+    margin: 10px;
+    margin-left: 0px;
+    text-align: left;
+}
+
 div.content2 {
-    text-align: center;
+
     font-size: 36px;
     font-weight: bolder;
+}
+
+#heading {
+    text-align: center;
 }
 
 div.infos {
@@ -127,11 +139,7 @@ div.highlight p {
     text-align: left;
 }
 
-h2 {
-    margin: 10px;
-    margin-left: 0px;
-    text-align: left;
-}
+
 
 button {
     background: #3882f6;
